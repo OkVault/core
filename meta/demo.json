@@ -1,31 +1,17 @@
 {
-    "description": "POAP for attending a Reverse Bidding Auction powered by Ok.Gold", 
+    "name": "Ok.Vault OG Pass July 2022",
+    "description": "OG Pass July for Ok.Vault", 
     "external_url": "https://ok.gold/", 
-    "image": "https://genesis.ok.gold/cdn/genesis/images/favicon/icon-512x512.png", 
-    "name": "OK.Gold POAP",
+    "image": "https://raw.githubusercontent.com/OkVault/june-2022/main/assets/okVault-June.png",
     "attributes": [
       {
-        "trait_type": "PoweredBy", 
-        "value": "Organik Labs"
-      }, 
-      {
-        "trait_type": "Level", 
-        "value": 1111
-      }, 
-      {
-        "display_type": "boost_number", 
-        "trait_type": "Total Pot", 
-        "value": 777
-      }, 
-      {
-        "display_type": "boost_percentage", 
-        "trait_type": "Win Chances", 
-        "value": 10
-      }, 
+        "trait_type": "Expires", 
+        "value": "July"
+      },  
       {
         "display_type": "number", 
-        "trait_type": "Generation", 
-        "value": 1
+        "trait_type": "Version", 
+        "value": 2
       }
     ]
   } 
